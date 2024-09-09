@@ -15,6 +15,11 @@
         "label": "Hare Omagari",
         "uiTheme": "vs-dark",
         "path": "./themes/hare-omagari-color-theme.json"
+      },
+      {
+        "label": "Chihiro Kagami",
+        "uiTheme": "vs-dark",
+        "path": "./themes/chihiro-kagami-color-theme.json"
       }
     ]
   }
