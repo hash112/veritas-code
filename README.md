@@ -7,4 +7,5 @@ I was bored again and made a veritas theme for VSCode
 
 <ul>
     <li>Omagari Hare (Of course)</li>
+    <li>Kagami Chihiro</li>
 </ul>
