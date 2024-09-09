@@ -1,0 +1,21 @@
+{
+  "name": "veritas-code",
+  "displayName": "Veritas VSCode",
+  "description": "Veritas from Blue Archive themes for VSCode.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hare Omagari",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hare-omagari-color-theme.json"
+      }
+    ]
+  }
+}
