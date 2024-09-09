@@ -1,6 +1,6 @@
 # veritas-code 
 
-I was bored again and made a veritas themed for VSCode
+I was bored again and made a veritas theme for VSCode
 (I hope completing this thing before I start another thing lmao)
 
 ## Themes
