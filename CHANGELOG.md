@@ -6,3 +6,4 @@
 - v.0.4 Kotama added
 
 - v.1.0 Release for vscode marketplace
+- v.1.0.1 I'm dumb and didn't link the images correctly

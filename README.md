@@ -4,7 +4,7 @@ This is a simple theme for VSCode.
 
 Veritas from Blue Archive.
 
-You can get the background on the repo: https://github.com/hash112/veritas-code
+You can get the background on the repo and put in on vscode using [doki theme](https://marketplace.visualstudio.com/items?itemName=unthrottled.doki-theme)
 
 
 ## Themes
