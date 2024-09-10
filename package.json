@@ -25,6 +25,11 @@
         "label": "Maki Konuri",
         "uiTheme": "vs-dark",
         "path": "./themes/maki-konuri-color-theme.json"
+      },
+      {
+        "label": "Kotama Otose",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kotama-otose-color-theme.json"
       }
     ]
   }
