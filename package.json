@@ -20,6 +20,11 @@
         "label": "Chihiro Kagami",
         "uiTheme": "vs-dark",
         "path": "./themes/chihiro-kagami-color-theme.json"
+      },
+      {
+        "label": "Maki Konuri",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maki-konuri-color-theme.json"
       }
     ]
   }
