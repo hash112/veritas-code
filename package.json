@@ -2,7 +2,18 @@
   "name": "veritas-code",
   "displayName": "Veritas VSCode",
   "description": "Veritas from Blue Archive themes for VSCode.",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "hashpp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hash112/veritas-code"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "Veritas",
+    "Blue Archive"
+  ],
   "engines": {
     "vscode": "^1.93.0"
   },
